@@ -1,5 +1,3 @@
-# dga-optimization/dga-optimization/README.md
-
 # Distributed Genetic Algorithms for Multi-Objective Optimization
 
 This project implements and analyzes Distributed Genetic Algorithms (DGAs) for solving multi-objective optimization problems. The framework is designed to facilitate experimentation with various genetic operators, selection strategies, and migration policies.
